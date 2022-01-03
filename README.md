@@ -12,10 +12,10 @@ This repository intendend to provide a complete **Data Science** learning path t
 -  :file_folder: GitHub repo.
 ### Time Plan
 
-|Statistics & Probability     |  Hours / Day  |            Date            |      |
+|Statistics & Probability     |  Hours / Day  |            Date            |  Done |
 | :----------------------------- | :-----------: | :------------------------: | ---- |
-| [Descriptive Statistics](#descriptive-statistics)         | 2 Hours / Day |  Monday, January 3,  2022  | Done |
-| [Probability](#probability)| 2 Hours / Day |  Monday, January 3, 2022   | Done |
+| [Descriptive Statistics](#descriptive-statistics)         | 2 Hours / Day |  Monday, January 3,  2022  | ✅ |
+| [Probability](#probability)| 2 Hours / Day |  Monday, January 3, 2022   | ✅ |
 | [Combinations and Permutations](#combinations-and-permutations) | 2 Hours / Day |  Tuesday, January 4, 2022  |      |
 | [Distributions](#distributions)| 2 Hours / Day |  Tuesday, January 4, 2022  |      |
 | [Confidence Intervals](#confidence-intervals)| 2 Hours / Day | Wednesday, January 5, 2022 |      |
@@ -37,7 +37,7 @@ This repository intendend to provide a complete **Data Science** learning path t
 # Statistics & Probability
 
 ### Descriptive Statistics
-- [ ] Intro to Descriptive Statistics [Article 1](https://towardsdatascience.com/descriptive-statistics-f2beeaf7a8df) **or** [Article 2](https://towardsdatascience.com/intro-to-descriptive-statistics-252e9c464ac9)
+- [x] Intro to Descriptive Statistics [Article 1](https://towardsdatascience.com/descriptive-statistics-f2beeaf7a8df) **or** [Article 2](https://towardsdatascience.com/intro-to-descriptive-statistics-252e9c464ac9)
 
 ### Probability
 - [ ] :tv: [Theoretical probability](https://www.khanacademy.org/math/statistics-probability/probability-library/basic-theoretical-probability/v/basic-probability)
