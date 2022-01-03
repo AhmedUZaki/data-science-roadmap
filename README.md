@@ -13,7 +13,7 @@ This repository intendend to provide a complete **Data Science** learning path t
 ### Time Plan
 
 |Statistics & Probability     |  Hours / Day  |            Date            |  Done |
-| :----------------------------- | :-----------: | :------------------------: | ---- |
+| :----------------------------- | :-----------: | :------------------------: | :--: |
 | [Descriptive Statistics](#descriptive-statistics)         | 2 Hours / Day |  Monday, January 3,  2022  |  ✅ |
 | [Probability](#probability)| 2 Hours / Day |  Monday, January 3, 2022   |  ✅ |
 | [Combinations and Permutations](#combinations-and-permutations) | 2 Hours / Day |  Tuesday, January 4, 2022  |      |
@@ -135,7 +135,7 @@ This repository intendend to provide a complete **Data Science** learning path t
 - [ ] :newspaper: [Python 3 Tutorial](https://www.tutorialspoint.com/python3/)
 - [ ] :tv: Introduction to Python [Video 1](https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=86s) **or** [Video 2](https://www.youtube.com/watch?v=rfscVS0vtbw)
 
-# Numpy
+# NumPy
 
 ### Basics
 - [ ] :newspaper: [An example](https://numpy.org/doc/stable/user/quickstart.html#an-example)
