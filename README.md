@@ -16,7 +16,7 @@ This repository intendend to provide a complete **Data Science** learning path t
 | :----------------------------- | :-----------: | :------------------------: | :--: |
 | [Descriptive Statistics](#descriptive-statistics)         | 2 Hours / Day |  Monday, January 3,  2022  |  ✅ |
 | [Probability](#probability)| 2 Hours / Day |  Monday, January 3, 2022   |   |
-| [Combinations and Permutations](#combinations-and-permutations) | 2 Hours / Day |  Tuesday, January 4, 2022  |      |
+| [Combinations and Permutations](#combinations-and-permutations) | 2 Hours / Day |  Tuesday, January 4, 2022  |  ✅ |
 | [Distributions](#distributions)| 2 Hours / Day |  Tuesday, January 4, 2022  |      |
 | [Confidence Intervals](#confidence-intervals)| 2 Hours / Day | Wednesday, January 5, 2022 |      |
 | [Hypothesis](#hypothesis)| 2 Hours / Day | Wednesday, January 5, 2022 |      |
@@ -40,11 +40,11 @@ This repository intendend to provide a complete **Data Science** learning path t
 - [x] Intro to Descriptive Statistics [Article 1](https://towardsdatascience.com/descriptive-statistics-f2beeaf7a8df) **or** [Article 2](https://towardsdatascience.com/intro-to-descriptive-statistics-252e9c464ac9)
 
 ### Probability
-- [ ] :tv: [Theoretical probability](https://www.khanacademy.org/math/statistics-probability/probability-library/basic-theoretical-probability/v/basic-probability)
-- [ ] :tv: [Sample spaces](https://www.khanacademy.org/math/statistics-probability/probability-library/probability-sample-spaces/v/events-and-outcomes-3)
-- [ ] :tv: [Set operations](https://www.khanacademy.org/math/statistics-probability/probability-library/basic-set-ops/v/intersection-and-union-of-sets)
-- [ ] :tv: [Addition rule](https://www.khanacademy.org/math/statistics-probability/probability-library/addition-rule-lib/v/probability-with-playing-cards-and-venn-diagrams)
-- [ ] :tv: [Multiplication rule for independent events](https://www.khanacademy.org/math/statistics-probability/probability-library/multiplication-rule-independent/v/compound-sample-spaces)
+- [x] :tv: [Theoretical probability](https://www.khanacademy.org/math/statistics-probability/probability-library/basic-theoretical-probability/v/basic-probability)
+- [x] :tv: [Sample spaces](https://www.khanacademy.org/math/statistics-probability/probability-library/probability-sample-spaces/v/events-and-outcomes-3)
+- [x] :tv: [Set operations](https://www.khanacademy.org/math/statistics-probability/probability-library/basic-set-ops/v/intersection-and-union-of-sets)
+- [x] :tv: [Addition rule](https://www.khanacademy.org/math/statistics-probability/probability-library/addition-rule-lib/v/probability-with-playing-cards-and-venn-diagrams)
+- [x] :tv: [Multiplication rule for independent events](https://www.khanacademy.org/math/statistics-probability/probability-library/multiplication-rule-independent/v/compound-sample-spaces)
 - [ ] :tv: [Multiplication rule for dependent events](https://www.khanacademy.org/math/statistics-probability/probability-library/multiplication-rule-dependent/v/introduction-to-dependent-probability)
 - [ ] :tv: [Conditional probability and independence](https://www.khanacademy.org/math/statistics-probability/probability-library/conditional-probability-independence/v/calculating-conditional-probability)
 
