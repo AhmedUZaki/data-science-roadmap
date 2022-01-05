@@ -15,7 +15,7 @@ This repository intendend to provide a complete **Data Science** learning path t
 |Statistics & Probability     |  Hours / Day  |            Date            |  Done |
 | :----------------------------- | :-----------: | :------------------------: | :--: |
 | [Descriptive Statistics](#descriptive-statistics)         | 2 Hours / Day |  Monday, January 3,  2022  |  ✅ |
-| [Probability](#probability)| 2 Hours / Day |  Monday, January 3, 2022   |   |
+| [Probability](#probability)| 2 Hours / Day |  Monday, January 3, 2022   | ✅   |
 | [Combinations and Permutations](#combinations-and-permutations) | 2 Hours / Day |  Tuesday, January 4, 2022  |  ✅ |
 | [Distributions](#distributions)| 2 Hours / Day |  Tuesday, January 4, 2022  |      |
 | [Confidence Intervals](#confidence-intervals)| 2 Hours / Day | Wednesday, January 5, 2022 |      |
@@ -45,13 +45,13 @@ This repository intendend to provide a complete **Data Science** learning path t
 - [x] :tv: [Set operations](https://www.khanacademy.org/math/statistics-probability/probability-library/basic-set-ops/v/intersection-and-union-of-sets)
 - [x] :tv: [Addition rule](https://www.khanacademy.org/math/statistics-probability/probability-library/addition-rule-lib/v/probability-with-playing-cards-and-venn-diagrams)
 - [x] :tv: [Multiplication rule for independent events](https://www.khanacademy.org/math/statistics-probability/probability-library/multiplication-rule-independent/v/compound-sample-spaces)
-- [ ] :tv: [Multiplication rule for dependent events](https://www.khanacademy.org/math/statistics-probability/probability-library/multiplication-rule-dependent/v/introduction-to-dependent-probability)
-- [ ] :tv: [Conditional probability and independence](https://www.khanacademy.org/math/statistics-probability/probability-library/conditional-probability-independence/v/calculating-conditional-probability)
+- [x] :tv: [Multiplication rule for dependent events](https://www.khanacademy.org/math/statistics-probability/probability-library/multiplication-rule-dependent/v/introduction-to-dependent-probability)
+- [x] :tv: [Conditional probability and independence](https://www.khanacademy.org/math/statistics-probability/probability-library/conditional-probability-independence/v/calculating-conditional-probability)
 
 ### Combinations and Permutations
-- [ ] :tv: [Counting principle and factorial](https://www.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations/counting-principle-factorial/v/tree-diagram-to-count-outcomes)
-- [ ] :tv: [Permutations](https://www.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations/permutation-lib/v/permutation-formula)
-- [ ] :tv: [Combinations](https://www.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations/combinations-lib/v/introduction-to-combinations)
+- [x] :tv: [Counting principle and factorial](https://www.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations/counting-principle-factorial/v/tree-diagram-to-count-outcomes)
+- [x] :tv: [Permutations](https://www.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations/permutation-lib/v/permutation-formula)
+- [x] :tv: [Combinations](https://www.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations/combinations-lib/v/introduction-to-combinations)
 
 ### Distributions
 - [ ] :tv: [Normal distribution and the Empirical rule](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/normal-distributions-library/v/ck12-org-normal-distribution-problems-qualitative-sense-of-normal-distributions)
