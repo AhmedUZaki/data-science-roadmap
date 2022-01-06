@@ -18,8 +18,8 @@ This repository intendend to provide a complete **Data Science** learning path t
 | [Probability](#probability)| 2 Hours / Day |  Monday, January 3, 2022   | ✅   |
 | [Combinations and Permutations](#combinations-and-permutations) | 2 Hours / Day |  Tuesday, January 4, 2022  |  ✅ |
 | [Distributions](#distributions)| 2 Hours / Day |  Tuesday, January 4, 2022  | ✅   |
-| [Confidence Intervals](#confidence-intervals)| 2 Hours / Day | Wednesday, January 5, 2022 | ✅   |
-| [Hypothesis](#hypothesis)| 2 Hours / Day | Wednesday, January 5, 2022 | ✅   |
+| [Confidence Intervals](#confidence-intervals)| 2 Hours / Day | Wednesday, January 5, 2022 |    |
+| [Hypothesis](#hypothesis)| 2 Hours / Day | Wednesday, January 5, 2022 |    |
 | **Linear  Algebra**           |  **Hours / Day**  |           **Date**           |      |
 | [Linear Algebra](#linear-algebra)               | 2 Hours / Day | Thursday, January 6, 2022 |      |
 | [Vectors and Spaces](#vectors-and-spaces)           | 2 Hours / Day | Thursday, January 6, 2022 |      |
@@ -60,15 +60,15 @@ This repository intendend to provide a complete **Data Science** learning path t
 - [x] :tv: [Sampling distribution of a sample mean](https://www.khanacademy.org/math/statistics-probability/sampling-distributions-library/sample-means/v/statistics-sample-vs-population-mean)
 
 ### Confidence Intervals
-- [x] :tv: [Confidence Intervals](https://www.khanacademy.org/math/statistics-probability/confidence-intervals-one-sample/introduction-to-confidence-intervals/v/confidence-intervals-and-margin-of-error)
-- [x] :tv: [Estimating Sample Proportions](https://www.khanacademy.org/math/statistics-probability/confidence-intervals-one-sample/estimating-population-proportion/v/confidence-interval-example)
-- [x] :tv: [Estimating Sample Means](https://www.khanacademy.org/math/statistics-probability/confidence-intervals-one-sample/estimating-population-mean/v/introduction-to-t-statistics)
+- [] :tv: [Confidence Intervals](https://www.khanacademy.org/math/statistics-probability/confidence-intervals-one-sample/introduction-to-confidence-intervals/v/confidence-intervals-and-margin-of-error)
+- [ ] :tv: [Estimating Sample Proportions](https://www.khanacademy.org/math/statistics-probability/confidence-intervals-one-sample/estimating-population-proportion/v/confidence-interval-example)
+- [ ] :tv: [Estimating Sample Means](https://www.khanacademy.org/math/statistics-probability/confidence-intervals-one-sample/estimating-population-mean/v/introduction-to-t-statistics)
 
 ### Hypothesis
-- [x] :tv: [Hypothesis Testing](https://www.khanacademy.org/math/statistics-probability/significance-tests-one-sample/idea-of-significance-tests/v/simple-hypothesis-testing)
-- [x] :tv: [Error probabilities and power](https://www.khanacademy.org/math/statistics-probability/significance-tests-one-sample/error-probabilities-and-power/v/introduction-to-type-i-and-type-ii-errors)
-- [x] :tv: [Tests about a population proportion](https://www.khanacademy.org/math/statistics-probability/significance-tests-one-sample/tests-about-population-proportion/v/constructing-hypotheses-for-a-significance-test)
-- [x] :tv: [Tests about a population mean](https://www.khanacademy.org/math/statistics-probability/significance-tests-one-sample/tests-about-population-mean/v/writing-hypotheses-for-significance-test-about-means)
+- [ ] :tv: [Hypothesis Testing](https://www.khanacademy.org/math/statistics-probability/significance-tests-one-sample/idea-of-significance-tests/v/simple-hypothesis-testing)
+- [ ] :tv: [Error probabilities and power](https://www.khanacademy.org/math/statistics-probability/significance-tests-one-sample/error-probabilities-and-power/v/introduction-to-type-i-and-type-ii-errors)
+- [ ] :tv: [Tests about a population proportion](https://www.khanacademy.org/math/statistics-probability/significance-tests-one-sample/tests-about-population-proportion/v/constructing-hypotheses-for-a-significance-test)
+- [ ] :tv: [Tests about a population mean](https://www.khanacademy.org/math/statistics-probability/significance-tests-one-sample/tests-about-population-mean/v/writing-hypotheses-for-significance-test-about-means)
 
 # Linear Algebra
 
