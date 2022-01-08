@@ -10,7 +10,7 @@ This repository intendend to provide a complete **Data Science** learning path t
 -  :dollar: Paid content.
 -  :newspaper: Online article.
 -  :file_folder: GitHub repo.
-### Time Plan
+### Content
 
 |Statistics & Probability     |  Done |
 | :----------------------------- | :--: |
