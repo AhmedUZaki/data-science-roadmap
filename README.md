@@ -59,8 +59,8 @@ This repository intendend to provide a complete **Data Science** learning path t
 - [x] :tv: [Sampling distribution of a sample mean](https://www.khanacademy.org/math/statistics-probability/sampling-distributions-library/sample-means/v/statistics-sample-vs-population-mean)
 
 ### Confidence Intervals
-- [ ] :tv: [Confidence Intervals](https://www.khanacademy.org/math/statistics-probability/confidence-intervals-one-sample/introduction-to-confidence-intervals/v/confidence-intervals-and-margin-of-error)
-- [ ] :tv: [Estimating Sample Proportions](https://www.khanacademy.org/math/statistics-probability/confidence-intervals-one-sample/estimating-population-proportion/v/confidence-interval-example)
+- [x] :tv: [Confidence Intervals](https://www.khanacademy.org/math/statistics-probability/confidence-intervals-one-sample/introduction-to-confidence-intervals/v/confidence-intervals-and-margin-of-error)
+- [x] :tv: [Estimating Sample Proportions](https://www.khanacademy.org/math/statistics-probability/confidence-intervals-one-sample/estimating-population-proportion/v/confidence-interval-example)
 - [ ] :tv: [Estimating Sample Means](https://www.khanacademy.org/math/statistics-probability/confidence-intervals-one-sample/estimating-population-mean/v/introduction-to-t-statistics)
 
 ### Hypothesis
