@@ -22,15 +22,15 @@ This repository intendend to provide a complete **Data Science** learning path t
 | [Hypothesis](#hypothesis)|    |
 | **Linear  Algebra**           |      |
 | [Linear Algebra](#linear-algebra)               |      |
-| [Vectors and Spaces](#vectors-and-spaces)           |      |
-| [Dot Product](#dot-product)                  |      |
+| [Vectors and Spaces](#vectors-and-spaces)           |  ✅   |
+| [Dot Product](#dot-product)                  |  ✅  |
 | [Matrix Transformations](#matrix-transformations)       |      |
 | [Eigenvalues and Eigenvectors](#eigenvalues-and-eigenvectors) |      |
 | [Integrals](#integrals)                    |      |
 | **Python**          |      |
-| [Python Programming](#python-programming)|      |
-| [Numpy](#numpy)              |      |
-| [Pandas](#pandas)           |      |
+| [Python Programming](#python-programming)|  ✅   |
+| [Numpy](#numpy)              |   ✅  |
+| [Pandas](#pandas)           |   ✅ |
 
 
 # Statistics & Probability
