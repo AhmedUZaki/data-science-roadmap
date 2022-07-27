@@ -72,13 +72,13 @@ This repository intendend to provide a complete **Data Science** learning path t
 # Linear Algebra
 
 ### Vectors and Spaces
-- [ ] :tv: [Vectors](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/vectors/v/vector-introduction-linear-algebra)
+- [x] :tv: [Vectors](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/vectors/v/vector-introduction-linear-algebra)
 - [ ] :tv: [Linear Combinations and Spans](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/linear-combinations/v/linear-combinations-and-span)
 - [ ] :tv: [Linear Dependence and Independence](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/linear-independence/v/linear-algebra-introduction-to-linear-independence)
 - [ ] :tv: [Subspaces and the basis for a subspace](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/subspace-basis/v/linear-subspaces)
 
 ### Dot Product
-- [ ] :tv: [Vector dot and cross products](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/vector-dot-product-and-vector-length)
+- [x] :tv: [Vector dot and cross products](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/vector-dot-product-and-vector-length)
 
 ### Matrix Transformations
 - [ ] :tv: [Functions and Linear Transformations](https://www.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/v/a-more-formal-understanding-of-functions)
@@ -101,20 +101,20 @@ This repository intendend to provide a complete **Data Science** learning path t
 - [ ] :tv: [Definite Integrals of Common Functions](https://www.khanacademy.org/math/integral-calculus/ic-integration/ic-common-definite-integrals/v/reverse-power-rule-for-definite-integrals)
 
 # Python Programming
-- [ ] :newspaper: [Learn Python Tutorial](https://www.learnpython.org)
+- [x] :newspaper: [Learn Python Tutorial](https://www.learnpython.org)
 ### Basics
-- [ ] :newspaper: [Hello, World!](https://www.learnpython.org/en/Hello%2C_World%21)
-- [ ] :newspaper: [Variables and Types](https://www.learnpython.org/en/Variables_and_Types)
-- [ ] :newspaper: [Lists](https://www.learnpython.org/en/Lists)
-- [ ] :newspaper: [Basic Operators](https://www.learnpython.org/en/Basic_Operators)
-- [ ] :newspaper: [String Formatting](https://www.learnpython.org/en/String_Formatting)
-- [ ] :newspaper: [Basic String Operations](https://www.learnpython.org/en/Basic_String_Operations)
-- [ ] :newspaper: [Conditions](https://www.learnpython.org/en/Conditions)
-- [ ] :newspaper: [Loops](https://www.learnpython.org/en/Loops)
-- [ ] :newspaper: [Functions](https://www.learnpython.org/en/Functions)
-- [ ] :newspaper: [Classes and Objects](https://www.learnpython.org/en/Classes_and_Objects)
-- [ ] :newspaper: [Dictionaries](https://www.learnpython.org/en/Dictionaries)
-- [ ] :newspaper: [Modules and Packages](https://www.learnpython.org/en/Modules_and_Packages)
+- [x] :newspaper: [Hello, World!](https://www.learnpython.org/en/Hello%2C_World%21)
+- [x] :newspaper: [Variables and Types](https://www.learnpython.org/en/Variables_and_Types)
+- [x] :newspaper: [Lists](https://www.learnpython.org/en/Lists)
+- [x] :newspaper: [Basic Operators](https://www.learnpython.org/en/Basic_Operators)
+- [x] :newspaper: [String Formatting](https://www.learnpython.org/en/String_Formatting)
+- [x] :newspaper: [Basic String Operations](https://www.learnpython.org/en/Basic_String_Operations)
+- [x] :newspaper: [Conditions](https://www.learnpython.org/en/Conditions)
+- [x] :newspaper: [Loops](https://www.learnpython.org/en/Loops)
+- [x] :newspaper: [Functions](https://www.learnpython.org/en/Functions)
+- [x] :newspaper: [Classes and Objects](https://www.learnpython.org/en/Classes_and_Objects)
+- [x] :newspaper: [Dictionaries](https://www.learnpython.org/en/Dictionaries)
+- [x] :newspaper: [Modules and Packages](https://www.learnpython.org/en/Modules_and_Packages)
 
 ### Advanced
 - [ ] :newspaper: [Generators](https://www.learnpython.org/en/Generators)
@@ -137,12 +137,12 @@ This repository intendend to provide a complete **Data Science** learning path t
 # NumPy
 
 ### Basics
-- [ ] :newspaper: [An example](https://numpy.org/doc/stable/user/quickstart.html#an-example)
-- [ ] :newspaper: [Array Creation](https://numpy.org/doc/stable/user/quickstart.html#array-creation)
-- [ ] :newspaper: [Printing Arrays](https://numpy.org/doc/stable/user/quickstart.html#printing-arrays)
-- [ ] :newspaper: [Basic Operations](https://numpy.org/doc/stable/user/quickstart.html#basic-operations)
-- [ ] :newspaper: [Universal Functions](https://numpy.org/doc/stable/user/quickstart.html#universal-functions)
-- [ ] :newspaper: [Indexing, Slicing and Iterating](https://numpy.org/doc/stable/user/quickstart.html#indexing-slicing-and-iterating)
+- [x] :newspaper: [An example](https://numpy.org/doc/stable/user/quickstart.html#an-example)
+- [x] :newspaper: [Array Creation](https://numpy.org/doc/stable/user/quickstart.html#array-creation)
+- [x] :newspaper: [Printing Arrays](https://numpy.org/doc/stable/user/quickstart.html#printing-arrays)
+- [x] :newspaper: [Basic Operations](https://numpy.org/doc/stable/user/quickstart.html#basic-operations)
+- [x] :newspaper: [Universal Functions](https://numpy.org/doc/stable/user/quickstart.html#universal-functions)
+- [x] :newspaper: [Indexing, Slicing and Iterating](https://numpy.org/doc/stable/user/quickstart.html#indexing-slicing-and-iterating)
 
 ### Shape Manipulation
 - [ ] :newspaper: [Changing the shape of an array](https://numpy.org/doc/stable/user/quickstart.html#changing-the-shape-of-an-array)
